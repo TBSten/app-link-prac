@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "me.tbsten.prac.appLink",
+      "sha256_cert_fingerprints":
+      ["CE:CA:D8:97:38:77:19:23:18:83:9E:9D:72:7F:C1:28:B9:94:34:9B:1C:FE:ED:8B:CA:5B:2E:7B:41:5B:A8:8C"]
+    }
+  }]
