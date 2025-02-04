@@ -33,4 +33,5 @@ dependencies {
     // feature modules
     implementation(projects.ui.feature.example)
     implementation(projects.ui.feature.deepLink)
+    implementation("androidx.browser:browser:1.8.0")
 }
